@@ -51,9 +51,11 @@ Po úspěšné kompilaci stačí:
 ```bash
 ./hra
 ```
-![Ukázka hry](media/Snímek obrazovky z 2025-08-12 17-06-11.png)
+## Ukázka
 
-![Ukázka hry](media/Snímek obrazovky z 2025-08-12 17-06-40.png)
+![Ukázka hry](media/prubeh.png)
 
-![Ukázka hry](media/Snímek obrazovky z 2025-08-12 17-07-29.png)
+![Ukázka hry](media/zacatekpng)
+
+![Ukázka hry](media/konec.png)
 
