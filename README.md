@@ -53,9 +53,9 @@ Po úspěšné kompilaci stačí:
 ```
 ## Ukázka
 
-![Ukázka hry](media/prubeh.png)
+![](media/prubeh.png)
 
-![Ukázka hry](media/zacatekpng)
+![](media/zacatek.png)
 
-![Ukázka hry](media/konec.png)
+![](media/konec.png)
 
